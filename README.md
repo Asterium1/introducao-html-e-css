@@ -6,8 +6,8 @@
     <img src="https://github.com/Asterium1.png?size=100" alt="Asterium" width="100" style="border-radius: 50%;">
   </a>
   <br>
-  <a href="https://github.com/Asterium1" style="text-decoration: none; color: #0078D4;">
-    <b>Asterium</b>
+  <a href="https://github.com/saneqy" style="text-decoration: none; color: #0078D4;">
+    <b>Saneqy</b>
   </a>
 </div>
 
